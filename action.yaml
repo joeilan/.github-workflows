@@ -15,7 +15,7 @@ jobs:
             teamspace: Initial Team Space
             project: Emerald
             branch: DEV
-            assetId: APISUITE
+            assetId: 40a4cd67-4880-4dcc-a4cd-674880ddcce6
             environment: Commerce React Store PRIVATE
             datasets:
             labels: 
