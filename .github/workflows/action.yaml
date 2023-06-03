@@ -6,8 +6,7 @@ jobs:
     runs-on: self-hosted
     name: Execute OTS Test
     steps:
-      - name: Execute Test
-        run: echo "random-number=$(echo $RANDOM)" >> $GITHUB_OUTPUT
+      - name: Execute Test        
         uses: joeilan/onetest@main
         with:
           serverUrl: https://hcl-onetest.sbx0064.play.hclsofy.dev/
