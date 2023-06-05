@@ -1,11 +1,11 @@
-name: HCL OneTest Server -Emerald UI
+name: HCL OneTest Server -Demo Functional
 
 on: workflow_dispatch
 
 jobs:
     OTS-Action:
         runs-on: self-hosted
-        name: HCL OneTest Server - Emerald UI
+        name: HCL OneTest Server - Demo Functional
         steps:
          - name: Execute Test
            uses: joeilan/onetest@main
