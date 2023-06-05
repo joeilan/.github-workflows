@@ -1,4 +1,4 @@
-name: HCL OneTest Server 
+name: HCL OneTest Server API
 
 on: workflow_dispatch
 
