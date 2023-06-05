@@ -1,4 +1,4 @@
-name: HCL OneTest Server -API
+name: HCL OneTest Server -Emerald API
 
 on: workflow_dispatch
 
