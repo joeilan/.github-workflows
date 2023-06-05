@@ -1,11 +1,11 @@
-name: HCL OneTest Server
+name: HCL OneTest Server - Emerald Performance
 
 on: workflow_dispatch
 
 jobs:
     OTS-Action:
         runs-on: self-hosted
-        name: HCL OneTest Server - Emerald API
+        name: HCL OneTest Server - Emerald Performance
         steps:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/onetest-server-action@main
