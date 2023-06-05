@@ -15,7 +15,7 @@ jobs:
             teamspace: Initial Team Space
             project: Functional_Test Automation
             branch: DEV
-            assetId: 9ef52a4d-79e6-4b50-b52a-4d79e6ab50cc            
+            assetId: 9ef52a4d-79e6-4b50-b52a-4d79e6ab50cc           
             datasets:
             labels: 
             secretsCollection: 
