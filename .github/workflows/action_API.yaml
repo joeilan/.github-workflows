@@ -16,7 +16,7 @@ jobs:
             project: API_Test Automation
             branch: DEV
             assetId: 40a4cd67-4880-4dcc-a4cd-674880ddcce6
-            environment: Commerce React Store PUBLIC
+            environment: Commerce React Store PRIVATE
             datasets:
             labels: 
             secretsCollection: 
